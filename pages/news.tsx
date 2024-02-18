@@ -131,7 +131,7 @@ const News: React.FC = () => {
                     >
                       <CardBody>
                         <CardTitle tag="h5">{blogItem.title}</CardTitle>
-                        <img
+                        <Image
                           src={
                             blogItem.main_img_url ||
                             "https://images.unsplash.com/photo-1546422904-90eab23c3d7e?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
