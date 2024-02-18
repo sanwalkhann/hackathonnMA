@@ -1,6 +1,6 @@
 import React from "react";
 
-const CardPage: React.FC = () => {
+const Formpage: React.FC = () => {
   return (
     <div>
       <h1>Buttons Page</h1>
@@ -9,4 +9,4 @@ const CardPage: React.FC = () => {
   );
 };
 
-export default CardPage;
+export default Formpage;
